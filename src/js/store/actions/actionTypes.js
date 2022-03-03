@@ -1,0 +1,32 @@
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAILED = 'AUTH_FAILED';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const SAVE_USER_DATA = 'SAVE_USER_DATA';
+export const SIGNUP_USER_SUCCESS = 'SIGNUP_USER_SUCCESS';
+export const SIGNUP_USER_FAILED = 'SIGNUP_USER_FAILED';
+
+export const SET_GAME_DATA_SUCCESS = 'SET_GAME_DATA_SUCCESS';
+export const SET_GAME_DATA_FAILED = 'SET_GAME_DATA_FAILED';
+export const GAME_STARTED = 'GAME_STARTED';
+export const GAME_WON = 'GAME_WON';
+export const SET_DEFAULT_LEVEL_SETTING = 'SET_DEFAULT_LEVEL_SETTING';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

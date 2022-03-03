@@ -1,0 +1,11 @@
+.weekStatsDiv {
+    width: 30%;
+    margin: auto;
+    margin: 2%;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 2px 2px 3px black;
+    background-color: whitesmoke;
+    display: inline-block;
+}
+

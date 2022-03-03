@@ -1,0 +1,16 @@
+.timer_end_win{
+    color: green;
+    font-weight: 500;
+    animation: blinker 1s linear infinite;
+}
+.timer_end_lose{
+  color: red;
+  font-weight: 500;
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+}
